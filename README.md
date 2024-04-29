@@ -3,4 +3,7 @@ Nama : Muhamad Jati Wasesa
 Kelas :TI.22.A5
 ## Hasil Modularisasi
 
-![gambar](https://github.com/steprtm/lab5web/assets/129705802/7ac53b8e-6739-431f-a471-f32cd91bed4c)
+![gambar](https://github.com/Muhjat7/lab5web/blob/master/Capture.PNG) 
+![gambar](https://github.com/Muhjat7/lab5web/blob/master/Capture1.PNG) 
+![gambar](https://github.com/Muhjat7/lab5web/blob/master/Capture2.PNG) 
+
